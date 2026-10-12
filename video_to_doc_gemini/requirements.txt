@@ -1,0 +1,8 @@
+av
+numpy
+Pillow
+streamlit
+google-genai
+python-docx
+python-dotenv
+openai-whisper

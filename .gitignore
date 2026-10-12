@@ -1,0 +1,5 @@
+.venv
+.env
+output
+whisper_models
+__pycache__
